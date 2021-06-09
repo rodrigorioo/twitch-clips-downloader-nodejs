@@ -1,6 +1,6 @@
 {
   "name": "twitch-clips-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for download clips from Twitch",
   "main": "index.js",
   "scripts": {
