@@ -1,0 +1,21 @@
+{
+  "name": "twitch-clips-downloader",
+  "version": "1.0.0",
+  "description": "Library for download clips from Twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitch",
+    "clips",
+    "downloader",
+    "axios",
+    "node"
+  ],
+  "author": "Rodrigo Rio <rodrigo.rio@outlook.com.ar>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
